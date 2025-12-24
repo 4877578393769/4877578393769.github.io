@@ -4,24 +4,11 @@
   
   
   <entry>
-    <title>等势面</title>
-    <link href="/2025/12/24/%E7%AD%89%E5%8A%BF%E9%9D%A2-1/"/>
-    <url>/2025/12/24/%E7%AD%89%E5%8A%BF%E9%9D%A2-1/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title></title>
     <link href="/2025/12/24/%E7%AD%89%E5%8A%BF%E9%9D%A2/"/>
     <url>/2025/12/24/%E7%AD%89%E5%8A%BF%E9%9D%A2/</url>
     
-    <content type="html"><![CDATA[<blockquote><p>[!note] 知识</p><ol><li>等势面垂直于电场线</li><li>沿等势面运动，电场力不做功</li></ol></blockquote><h2 id="例题"><a href="#例题" class="headerlink" title="例题"></a>例题</h2><p>![[Pasted image 20251222143606.png]]<br>选自奇知秋季5，$32:00$<br>答案为$AB$</p><blockquote><p>[!tip] 解析<br>先画出电场线<br>![[Pasted image 20251222143843.png|250]]<br>A：根据：力指向凹侧，力平行于电场线，画出电场力，判断电性为负，A正确<br>B：判断加速度，根据$a&#x3D;\frac{F}{m}&#x3D;\frac{Eq}{m}$，只需要看电场强度的变化即可，要看电场强度变化，只要看电场线的疏密分布即可，由图可知：电场线疏密，先不变，再变小，则$E$先不变，再变小，B正确<br>CD：根据$E_p&#x3D;q\phi$，$q$为负，$\phi$减小，则$E_p$增大，由能量守恒可知：$E_k$减小，则速度不断减小</p></blockquote><p>![[Pasted image 20251222144831.png]]![[Pasted image 20251222144842.png]]<br>选自奇知秋季5，$46:00$<br>答案为$C$</p><p>![[Pasted image 20251224161630.png]]![[Pasted image 20251224161639.png]]<br>选自奇知秋季5，$53:00$</p><blockquote><p>[!tip] 解析<br>微粒记重力，粒子不记重力；沿直线运动，则力平行于速度</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>[!note] 知识</p><ol><li>等势面垂直于电场线</li><li>沿等势面运动，电场力不做功</li></ol></blockquote><h2 id="例题"><a href="#例题" class="headerlink" title="例题"></a>例题</h2><p>![[Pasted image 20251222143606.png]]<br>选自奇知秋季5，$32:00$<br>答案为$AB$</p><blockquote><p>[!tip] 解析<br>先画出电场线<br>![[Pasted image 20251222143843.png|250]]<br>A：根据：力指向凹侧，力平行于电场线，画出电场力，判断电性为负，A正确<br>B：判断加速度，根据$a&#x3D;\frac{F}{m}&#x3D;\frac{Eq}{m}$，只需要看电场强度的变化即可，要看电场强度变化，只要看电场线的疏密分布即可，由图可知：电场线疏密，先不变，再变小，则$E$先不变，再变小，B正确<br>CD：根据$E_p&#x3D;q\phi$，$q$为负，$\phi$减小，则$E_p$增大，由能量守恒可知：$E_k$减小，则速度不断减小</p></blockquote><p>![[Pasted image 20251222144831.png]]![[Pasted image 20251222144842.png]]<br>选自奇知秋季5，$46:00$<br>答案为$C$</p><p>![[Pasted image 20251224161630.png]]![[Pasted image 20251224161639.png]]<br>选自奇知秋季5，$53:00$</p><blockquote><p>[!tip] 解析<br>微粒记重力，粒子不记重力；沿直线运动，则力平行于速度</p></blockquote><pre><code class=" mermaid">graph LRA[Square Rect] -- Link text --&gt; B((Circle))A --&gt; C(Round Rect)B --&gt; D&#123;Rhombus&#125;C --&gt; D</code></pre>]]></content>
     
     
     
